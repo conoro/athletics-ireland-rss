@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Athletics Ireland News Feed</title>
+        <link>https://www.athleticsireland.ie/news</link>
+        <description>RSS feed for Athletics Ireland website</description>
+        <lastBuildDate>Tue, 30 Aug 2022 10:42:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>AWS Lambda</generator>
+        <language>en</language>
+        <image>
+            <title>Athletics Ireland News Feed</title>
+            <url>https://www.athleticsireland.ie/images/news/AI_Logo.jpg</url>
+            <link>https://www.athleticsireland.ie/news</link>
+        </image>
+        <copyright>2019 © Athletics Ireland. All Rights Reserved.</copyright>
+        <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[21st World Masters Mountain Running Championships 2022]]></title>
+            <link>https://www.athleticsireland.ie/news/21st-world-masters-mountain-running-championships-2022/</link>
+            <guid>https://www.athleticsireland.ie/news/21st-world-masters-mountain-running-championships-2022/</guid>
+            <pubDate>Tue, 23 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[21st World Masters Mountain Running Championships 2022]]></description>
+            <content:encoded><![CDATA[21st World Masters Mountain Running Championships 2022]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[ CLONLIFFE AND DSD CLAIM PREMIER TITLES AS TIR CHONAILL & ENNISCORTHY SHINE]]></title>
+            <link>https://www.athleticsireland.ie/news/clonliffe-and-dsd-claim-premier-titles-as-tir-chonaill-shine/</link>
+            <guid>https://www.athleticsireland.ie/news/clonliffe-and-dsd-claim-premier-titles-as-tir-chonaill-shine/</guid>
+            <pubDate>Sat, 13 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[ CLONLIFFE AND DSD CLAIM PREMIER TITLES AS TIR CHONAILL & ENNISCORTHY SHINE]]></description>
+            <content:encoded><![CDATA[ CLONLIFFE AND DSD CLAIM PREMIER TITLES AS TIR CHONAILL & ENNISCORTHY SHINE]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SUN-DRENCHED TULLAMORE SEES MASTERS SHINE]]></title>
+            <link>https://www.athleticsireland.ie/news/sun-drenched-tullamore-sees-masters-shine/</link>
+            <guid>https://www.athleticsireland.ie/news/sun-drenched-tullamore-sees-masters-shine/</guid>
+            <pubDate>Fri, 12 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[SUN-DRENCHED TULLAMORE SEES MASTERS SHINE]]></description>
+            <content:encoded><![CDATA[SUN-DRENCHED TULLAMORE SEES MASTERS SHINE]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Women’s Pathway Programme 2022/2023]]></title>
+            <link>https://www.athleticsireland.ie/news/womens-pathway-programme-2022-2023</link>
+            <guid>https://www.athleticsireland.ie/news/womens-pathway-programme-2022-2023</guid>
+            <pubDate>Mon, 01 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Women’s Pathway Programme 2022/2023]]></description>
+            <content:encoded><![CDATA[Women’s Pathway Programme 2022/2023]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Women’s Student Coaching Academy is back!]]></title>
+            <link>https://www.athleticsireland.ie/news/the-womens-student-coaching-academy-is-back</link>
+            <guid>https://www.athleticsireland.ie/news/the-womens-student-coaching-academy-is-back</guid>
+            <pubDate>Mon, 18 Jul 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[The Women’s Student Coaching Academy is back!]]></description>
+            <content:encoded><![CDATA[The Women’s Student Coaching Academy is back!]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Women in Sport Week- Break the Bias (March 7th - 13th)]]></title>
+            <link>https://www.athleticsireland.ie/news/women-in-sport-week-break-the-bias-march-7th-13th</link>
+            <guid>https://www.athleticsireland.ie/news/women-in-sport-week-break-the-bias-march-7th-13th</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Women in Sport Week- Break the Bias (March 7th - 13th)]]></description>
+            <content:encoded><![CDATA[Women in Sport Week- Break the Bias (March 7th - 13th)]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Team Ireland set for SIAB International]]></title>
+            <link>https://www.athleticsireland.ie/news/team-ireland-set-for-siab-international/</link>
+            <guid>https://www.athleticsireland.ie/news/team-ireland-set-for-siab-international/</guid>
+            <pubDate>Tue, 12 Jul 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Team Ireland set for SIAB International]]></description>
+            <content:encoded><![CDATA[Team Ireland set for SIAB International]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Irish Schools Select strong International Team set to compete in Belfast on Saturday 16th July 2022]]></title>
+            <link>https://www.athleticsireland.ie/news/irish-schools-select-strong-international-team-set-to-compete-in-belfast-on-saturday-16th-july-2022/</link>
+            <guid>https://www.athleticsireland.ie/news/irish-schools-select-strong-international-team-set-to-compete-in-belfast-on-saturday-16th-july-2022/</guid>
+            <pubDate>Mon, 27 Jun 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Irish Schools Select strong International Team set to compete in Belfast on Saturday 16th July 2022]]></description>
+            <content:encoded><![CDATA[Irish Schools Select strong International Team set to compete in Belfast on Saturday 16th July 2022]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tailteann Schools Interprovincial Games 2022]]></title>
+            <link>https://www.athleticsireland.ie/news/tailteann-schools-interprovincial-games-2022/</link>
+            <guid>https://www.athleticsireland.ie/news/tailteann-schools-interprovincial-games-2022/</guid>
+            <pubDate>Wed, 22 Jun 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Tailteann Schools Interprovincial Games 2022]]></description>
+            <content:encoded><![CDATA[Tailteann Schools Interprovincial Games 2022]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Job Opportunity: Communications and Media Officer]]></title>
+            <link>https://www.athleticsireland.ie/news/job-opportunity-communications-and-media-officer/</link>
+            <guid>https://www.athleticsireland.ie/news/job-opportunity-communications-and-media-officer/</guid>
+            <pubDate>Thu, 25 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Job Opportunity: Communications and Media Officer]]></description>
+            <content:encoded><![CDATA[Job Opportunity: Communications and Media Officer]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Job Opportunity: Competitions Officer]]></title>
+            <link>https://www.athleticsireland.ie/news/job-opportunity-competitions-officer/</link>
+            <guid>https://www.athleticsireland.ie/news/job-opportunity-competitions-officer/</guid>
+            <pubDate>Thu, 25 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Job Opportunity: Competitions Officer]]></description>
+            <content:encoded><![CDATA[Job Opportunity: Competitions Officer]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application for regrading for the cross country season 2022-2023]]></title>
+            <link>https://www.athleticsireland.ie/news/application-for-regrading-for-the-cross-country-season-2019-2020/</link>
+            <guid>https://www.athleticsireland.ie/news/application-for-regrading-for-the-cross-country-season-2019-2020/</guid>
+            <pubDate>Tue, 23 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Application for regrading for the cross country season 2022-2023]]></description>
+            <content:encoded><![CDATA[Application for regrading for the cross country season 2022-2023]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bedford AAA 2022]]></title>
+            <link>https://www.athleticsireland.ie/news/bedford-aaa-2022/</link>
+            <guid>https://www.athleticsireland.ie/news/bedford-aaa-2022/</guid>
+            <pubDate>Sun, 28 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Bedford AAA 2022]]></description>
+            <content:encoded><![CDATA[Bedford AAA 2022]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Congratulations and Best of Luck to all Performance Pathway Athletes at SPAR European Cross Country]]></title>
+            <link>https://www.athleticsireland.ie/news/congratulations-and-best-of-luck-to-all-performance-pathway-athletes-at-spa/</link>
+            <guid>https://www.athleticsireland.ie/news/congratulations-and-best-of-luck-to-all-performance-pathway-athletes-at-spa/</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Congratulations and Best of Luck to all Performance Pathway Athletes at SPAR European Cross Country]]></description>
+            <content:encoded><![CDATA[Congratulations and Best of Luck to all Performance Pathway Athletes at SPAR European Cross Country]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Children’s Games, U12-U13 Championships, and Youth CE]]></title>
+            <link>https://www.athleticsireland.ie/news/childrens-games-u12-u13-championships-and-youth-ce/</link>
+            <guid>https://www.athleticsireland.ie/news/childrens-games-u12-u13-championships-and-youth-ce/</guid>
+            <pubDate>Tue, 17 Aug 2021 23:00:00 GMT</pubDate>
+            <description><![CDATA[Children’s Games, U12-U13 Championships, and Youth CE]]></description>
+            <content:encoded><![CDATA[Children’s Games, U12-U13 Championships, and Youth CE]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Jennings 3rd at 100km World Championships]]></title>
+            <link>https://www.athleticsireland.ie/news/jennings-3rd-at-100km-world-championships/</link>
+            <guid>https://www.athleticsireland.ie/news/jennings-3rd-at-100km-world-championships/</guid>
+            <pubDate>Fri, 26 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[Jennings 3rd at 100km World Championships]]></description>
+            <content:encoded><![CDATA[Jennings 3rd at 100km World Championships]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[RECORD-BREAKING IRISH TEAM RETURN HOME]]></title>
+            <link>https://www.athleticsireland.ie/news/record-breaking-irish-team-return-home/</link>
+            <guid>https://www.athleticsireland.ie/news/record-breaking-irish-team-return-home/</guid>
+            <pubDate>Sun, 21 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[RECORD-BREAKING IRISH TEAM RETURN HOME]]></description>
+            <content:encoded><![CDATA[RECORD-BREAKING IRISH TEAM RETURN HOME]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BRONZE FOR MARK ENGLISH AS TEAM IRELAND SIGN OFF MUNICH 2022 IN STYLE]]></title>
+            <link>https://www.athleticsireland.ie/news/bronze-for-mark-english-as-team-ireland-sign-off-munich-2022-in-style/</link>
+            <guid>https://www.athleticsireland.ie/news/bronze-for-mark-english-as-team-ireland-sign-off-munich-2022-in-style/</guid>
+            <pubDate>Sat, 20 Aug 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[BRONZE FOR MARK ENGLISH AS TEAM IRELAND SIGN OFF MUNICH 2022 IN STYLE]]></description>
+            <content:encoded><![CDATA[BRONZE FOR MARK ENGLISH AS TEAM IRELAND SIGN OFF MUNICH 2022 IN STYLE]]></content:encoded>
+            <author>admin@athleticsireland.ie (Athletics Ireland)</author>
+        </item>
+    </channel>
+</rss>
